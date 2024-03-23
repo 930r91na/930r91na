@@ -50,8 +50,5 @@ Welcome! I'm Georgina Zeron Cabrera, a Computer Systems and Mechatronics Enginee
 
 
 ## 🌐 Connect with Me
-
-- Email: [georgina.zeronca@udlap.mx](mailto:georgina.zeronca@udlap.mx)
-- Phone: +52 2212523657
 - LinkedIn: [https://linkedin.com/in/georgina-zerón/](https://linkedin.com/in/georgina-zerón/)
 - GitHub: [https://github.com/930r91na](https://github.com/930r91na)
