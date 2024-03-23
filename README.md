@@ -20,6 +20,9 @@ Welcome! I'm Georgina Zeron Cabrera, a Computer Systems and Mechatronics Enginee
 ## 🏆 Competitions
 
 - **Hackathon CTF Hack the Box (Dec 2023)**: MVP for solving reverse engineering challenges using Ghidra on Kali Linux.
+- **ENACTUS FEM Coding Challenge (3rd place):** Developed the "Nexus" iOS app for mentor-mentee connections.
+- **Hackathon AUDI Mexico (1st place):** Created a real-time tracking and optimization solution for Audi Mexico.
+
 
 ## 🚀 Projects
 
