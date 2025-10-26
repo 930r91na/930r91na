@@ -1,54 +1,74 @@
-# Hi, I am Geo
+# Hi there, I'm Geo 👋
 
-Welcome! I'm Georgina Zeron Cabrera, a Computer Systems and Mechatronics Engineering student with a passion for technology and innovation. Here's a glimpse into my educational background, experiences, and the projects I've worked on.
+<div align="center">
 
-## 🎓 Education
+[![Profile Views](https://komarev.com/ghpvc/?username=930r91na&color=blueviolet&style=flat-square)](https://github.com/930r91na)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/georgina-zerón/)
 
-- **Universidad de las Américas Puebla (UDLAP), Mexico**
-  - B.Sc. in Computer Systems Engineering, Graduating June 2025
-  - GPA: 4.0/4.0, Full Scholarship, Honors Program
-- **Universidad Popular del Estado de Puebla (UPAEP), Mexico**
-  - B.Sc. in Mechatronics Engineering, Graduating December 2026
-  - GPA: 3.9/4.0, Full Academic Scholarship
+</div>
 
-## 💼 Professional Experience
+Computer Systems Engineering student with a 4.0 GPA at UDLAP, graduating December 2025. Passionate about software development, AI, and cybersecurity. Three-time Microsoft intern and full-stack developer currently working on microservice architecture for university systems.
 
-- **Microsoft**
-  - Incoming Software Engineer Intern (May 2024 - Aug 2025)
-  - Explore Intern (May 2023 - Aug 2023)
+## 💼 Experience
 
-## 🏆 Competitions
+**Software Developer** @ UDLAP | *Aug 2025 - Present*
+- Developing microservice architecture for university access control system using Python (FastAPI), Docker, and SQLAlchemy
 
-- **Hackathon CTF Hack the Box (Dec 2023)**: MVP for solving reverse engineering challenges using Ghidra on Kali Linux.
-- **ENACTUS FEM Coding Challenge (3rd place):** Developed the "Nexus" iOS app for mentor-mentee connections.
-- **Hackathon AUDI Mexico (1st place):** Created a real-time tracking and optimization solution for Audi Mexico.
+**Software Engineer Intern** @ Microsoft | *May 2023 - Aug 2025*
+- Enhanced cross-clipboard experience for Windows 365 web client (10k+ users impact)
+- Built Azure Virtual Desktop broker emulator with C#, ASP.NET, and REST APIs
+- Conducted A/B testing and user engagement analysis with TypeScript and React
 
+## 🏆 Notable Projects & Achievements
 
-## 🚀 Projects
+- 🥈 **Stemite** - 2nd place National Swift Change Makers Hackathon (iOS app for STEM career guidance)
+- 🥈 **Doc Wallet** - 2nd place UDLAP STEM Projects (secure document management with React Native)
+- 🥇 **AUDI Mexico In-House Hackathon** - 1st place (distribution system optimization with RL)
+- 🥈 **Nexus** - 2nd place ENACTUS FemCoding Challenge (mentorship platform addressing SDGs)
+- 🎮 **Kung Fu Pac-Man** - AI-powered game with A* pathfinding algorithm in C#
+- 💧 **Valle del Volcán** - E-commerce landing page with TypeScript and Tailwind CSS
 
-- **Valle del Volcán Landing Page**: Developed with JavaScript, focusing on UX principles.
-- **Kung Fu Pac-man**: A C# game implementing AI with A* algorithm for dynamic ghost movements.
-- **Solana App for Cancer Support**: Developed in Swift, enhanced user experience through usability testing.
+## 🛡️ Cybersecurity
 
-## 👥 Leadership
+- **MVP** in Hack the Box CTF (116/1,300 teams) - Reverse engineering & pwn challenges
+- Cyber Apocalypse 2024 CTF participant (701/6,000 teams internationally)
+- Active member of UDLAP Cybersecurity Club
 
-- Vice President of Competitive Programming Club, fostering academic engagement and excellence in programming.
+## 🛠️ Technical Skills
 
-## 📚 Technical Skills
+**Proficient:** C · C++ · C# · Swift · VHDL · Git
+**Familiar:** Python · TypeScript · React · JavaScript · SQL · Docker · Firebase · Figma · Tailwind · GCP
 
-- **Proficient**: C, C++, VHDL, Excel, Catia, Onshape, Git
-- **Familiar**: Swift, Python, TypeScript + React, HTML
-- **Beginner**: C#, MATLAB
+**Languages:** Spanish (Native) · English (C1) · French (A2)
 
 ## 📊 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=930r91na&show_icons=true&bg_color=00000000&theme=dark&rank_icon=github)
+<div align="center">
 
-## 💻 Most Used Languages
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=930r91na&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF&rank_icon=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=930r91na&hide=javascript,html&theme=dark&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=930r91na&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=930r91na&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&hide=javascript,html)
 
-## 🌐 Connect with Me
-- LinkedIn: [https://linkedin.com/in/georgina-zerón/](https://linkedin.com/in/georgina-zerón/)
-- GitHub: [https://github.com/930r91na](https://github.com/930r91na)
+</div>
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=930r91na&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/georgina-zerón/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/930r91na)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:georgina.zeronca@udlap.mx)
+
+</div>
