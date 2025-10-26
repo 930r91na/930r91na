@@ -37,14 +37,46 @@ Computer Systems Engineering student at UDLAP, graduating December 2025. Passion
 
 **Languages:** Spanish (Native) · English (C1) · French (A2)
 
+
+
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=930r91na&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF&rank_icon=github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=930r91na&show_icons=true&theme=default&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&rank_icon=github" alt="GitHub Stats" height="180" />
+  </picture>
+  
+  <picture>
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=930r91na&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=930r91na&theme=default&hide_border=true&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" alt="GitHub Streak" height="180" />
+  </picture>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=930r91na&show_icons=true&theme=default&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF&rank_icon=github)
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=930r91na&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&hide=jupyter%20notebook,javascript,html&langs_count=8"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=930r91na&layout=compact&theme=default&hide_border=true&title_color=8B5CF6&hide=jupyter%20notebook,javascript,html&langs_count=8" alt="Top Languages" height="180" />
+  </picture>
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=930r91na&theme=default&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6)
+## 📈 Contribution Graph
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=930r91na&theme=github-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=930r91na&theme=github-compact&hide_border=true&color=8B5CF6&line=8B5CF6&point=6366F1" alt="Contribution Graph" width="95%" />
+  </picture>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=930r91na&layout=compact&theme=default&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&hide=javascript,html)
-
-</div>
