@@ -1,18 +1,14 @@
 # Hi there, I'm Geo 👋
 
-<div align="center">
+<div align="left">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=930r91na&color=blueviolet&style=flat-square)](https://github.com/930r91na)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/georgina-zerón/)
 
 </div>
 
-Computer Systems Engineering student with a 4.0 GPA at UDLAP, graduating December 2025. Passionate about software development, AI, and cybersecurity. Three-time Microsoft intern and full-stack developer currently working on microservice architecture for university systems.
+Computer Systems Engineering student at UDLAP, graduating December 2025. Passionate about software development, AI, and cybersecurity. Three-time Microsoft intern and full-stack developer
 
 ## 💼 Experience
-
-**Software Developer** @ UDLAP | *Aug 2025 - Present*
-- Developing microservice architecture for university access control system using Python (FastAPI), Docker, and SQLAlchemy
 
 **Software Engineer Intern** @ Microsoft | *May 2023 - Aug 2025*
 - Enhanced cross-clipboard experience for Windows 365 web client (10k+ users impact)
@@ -45,30 +41,10 @@ Computer Systems Engineering student with a 4.0 GPA at UDLAP, graduating Decembe
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=930r91na&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=930r91na&show_icons=true&theme=default&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF&rank_icon=github)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=930r91na&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=930r91na&theme=default&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=930r91na&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&hide=javascript,html)
-
-</div>
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=930r91na&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/georgina-zerón/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/930r91na)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:georgina.zeronca@udlap.mx)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=930r91na&layout=compact&theme=default&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&hide=javascript,html)
 
 </div>
