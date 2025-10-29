@@ -10,7 +10,7 @@ Computer Systems Engineering student at UDLAP, graduating December 2025. Passion
 
 ## 💼 Experience
 
-**Software Engineer Intern** @ Microsoft | *May 2023 - Aug 2025*
+**Software Engineer Intern** @ Microsoft | *2023, 2024, 2025*
 - Enhanced cross-clipboard experience for Windows 365 web client (10k+ users impact)
 - Built Azure Virtual Desktop broker emulator with C#, ASP.NET, and REST APIs
 - Conducted A/B testing and user engagement analysis with TypeScript and React
